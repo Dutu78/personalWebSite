@@ -559,6 +559,10 @@ footer {
     font-size: 1em;
     margin-left: 25px;
   }
+
+  .list-margin {
+    font-size: 1em;
+  }
 }
 
 @media only screen and (max-width: 390px) {
@@ -589,9 +593,5 @@ footer {
 @media only screen and (max-width: 370px) {
   .skill-lists {
     width: 100%;
-  }
-
-  .list-margin {
-    font-size: 1em;
   }
 }
