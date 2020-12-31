@@ -536,7 +536,7 @@ footer {
   }
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 440px) {
   .navbar {
     left: 1%;
     width: 98%;
@@ -584,12 +584,14 @@ footer {
   .intro-text {
     font-size: 1rem;
   }
+}
 
+@media only screen and (max-width: 370px) {
   .skill-lists {
     width: 100%;
   }
 
   .list-margin {
-    font-size: 0.8em;
+    font-size: 1em;
   }
 }
