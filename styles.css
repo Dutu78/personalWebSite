@@ -584,14 +584,12 @@ footer {
   .intro-text {
     font-size: 1rem;
   }
-}
 
-@media only screen and (max-width: 380px) {
   .skill-lists {
     width: 100%;
   }
 
   .list-margin {
-    font-size: 1em;
+    font-size: 0.8em;
   }
 }
