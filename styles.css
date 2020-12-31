@@ -586,12 +586,12 @@ footer {
   }
 }
 
-@media only screen and (max-width: 370px) {
+@media only screen and (max-width: 380px) {
   .skill-lists {
     width: 100%;
   }
 
   .list-margin {
-    font-size: 0.7em;
+    font-size: 1em;
   }
 }
